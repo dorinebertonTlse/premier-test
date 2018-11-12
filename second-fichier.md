@@ -8,6 +8,7 @@
 <body>
 <h1>Mon second fichier</h1>
 <p>Juste un peu de code html pour faire semblant de partager du code sur github</p>
+<div><img src="BANNIERE2.jpg" alt="n'importe quoi"/></div>
 </body>
 <footer>quel joli footer</footer>
 </html>
